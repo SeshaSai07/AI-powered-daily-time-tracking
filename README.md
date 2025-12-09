@@ -7,7 +7,7 @@ Built using HTML, CSS, JavaScript, Firebase Authentication, Firestore, TailwindC
 
 🔗 Deployed Link
  (Add your GitHub Pages link here)
-
+https://seshasai07.github.io/AI-powered-daily-time-tracking/
 
 📌 Project Overview
 
@@ -154,8 +154,9 @@ ai-time-tracker/
 
 🔧 How to Run Locally
 1️⃣ Clone the repository
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+
+git clone https://github.com/SeshaSai07/AI-powered-daily-time-tracking.git
+cd AI-powered-daily-time-tracking
 
 2️⃣ Start a local server
 
