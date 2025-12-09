@@ -1,5 +1,3 @@
-.
-
 🌟 AI-Powered Daily Time Tracking & Analytics Dashboard
 
 A modern, responsive time-tracking web application that lets users log daily activities (in minutes), visualize how they spend their 24 hours, and generate a per-day analytics dashboard using charts.
