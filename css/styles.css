@@ -1,0 +1,8 @@
+/* Small UI helpers */
+.input{ padding: .6rem .8rem; border-radius: .6rem; border: 1px solid #e5e7eb; }
+.btn-primary{ background: linear-gradient(90deg,#7c3aed,#06b6d4); color: white; padding: .6rem 1rem; border-radius: .6rem; display:inline-block; }
+.btn-outline{ border: 1px solid #e5e7eb; padding:.5rem .7rem; border-radius:.5rem; }
+.btn-ghost{ background: transparent; padding:.4rem .7rem; }
+.btn-sm{ padding:.25rem .4rem; font-size:.85rem; }
+.delete{ color: #ef4444; }
+.divider{ display:flex; align-items:center; justify-content:center; }
